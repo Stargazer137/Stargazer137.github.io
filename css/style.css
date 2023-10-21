@@ -42,8 +42,9 @@ a
     width: 100%;
     max-width: 880px;
     margin: 0 auto;
-    /* padding: 36px 4vw 0px; 上 宽 第 */
-    padding: 36px 50px 0px; 
+    /* padding: 36px 4vw 0px;  */
+    padding: 36px 3vw 0px; 
+    /* padding: 36px 50px 0px;  */
     background: #fff;
     /*border-radius: 24px;*/
     border-radius: 5px;
@@ -55,8 +56,9 @@ a
     width: 100%;
     max-width: 880px;
     margin: 0 auto;
-    /* padding: 36px 4.5vw 0px;  上 宽 第 */
-    padding: 36px 50px 0px;
+    /* padding: 36px 4.5vw 0px;   */
+    /* padding: 36px 50px 0px; */
+    padding: 36px 3vw 0px;
     border-radius: 5px;
     background: #ffffff;
     box-shadow:  0px 5px 13px #616161, -5px -5px 13px #ffffff;
