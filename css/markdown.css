@@ -19,7 +19,7 @@
 }
 .post-md h1
 {
-    font-size: 2.5rem;
+    font-size: 1.5rem;
     line-height: 1.2;
     padding: 24px 0;
 }
@@ -41,7 +41,7 @@
     line-height: 1.2;
     padding: 16px 0;
 }
-.post-md h5
+/* .post-md h5
 {
     font-size: 1.25rem;
     line-height: 1.2;
@@ -52,6 +52,20 @@
     font-size: 1.125rem;
     line-height: 1.2;
     padding: 12px 0;
+} */
+.post-md h5
+{
+    font-size: 1.2rem;
+    line-height: 1;
+    padding: 14px 0;
+    counter-increment: section;
+}
+.post-md h6
+{
+    font-size: 1.1rem;
+    line-height: 1.2;
+    padding: 12px 0;
+    counter-reset: unset;
 }
 .post-md a
 {
